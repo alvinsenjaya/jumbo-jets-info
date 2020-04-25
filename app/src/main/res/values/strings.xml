@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jumbo Jets Info</string>
+    <string name="aircraft_name">Aircraft Name</string>
+    <string name="detail">Details</string>
+    <string name="jumbo_jets_info">Jumbo Jets Info</string>
+    <string name="about">About</string>
+    <string name="specification">Specification</string>
+    <string name="my_name"><b>Alvin Senjaya</b></string>
+    <string name="my_email">email@email.com</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="country">Country</string>
+    <string name="price">Price</string>
+    <string name="seats">Seats</string>
+    <string name="engine">Engine</string>
+    <string name="max_cruise_speed">Max Cruise Speed</string>
+    <string name="travel_range">Travel Range</string>
+    <string name="fuel_economy">Fuel Economy</string>
+</resources>
